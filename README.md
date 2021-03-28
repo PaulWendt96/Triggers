@@ -1,6 +1,11 @@
 ## Triggers
 Perform actions selectively when certain functions are called
 
+## Installation
+```bash
+git clone https://www.github.com/PaulWendt96/Triggers
+```
+
 ### Usage
 Consider the following (extremely contrived) example:
 
