@@ -1,5 +1,5 @@
 ## Triggers
-Perform actions selectively when certain functions are called
+Add event-driven actions to a callable before or after it is called without changing the body of the callable itself. 
 
 ## Installation
 ```bash
