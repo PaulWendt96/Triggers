@@ -1,5 +1,5 @@
 ## Triggers
-Add event-driven actions to a callable before or after it is called without changing the body of the callable itself. 
+Do weird stuff with weird looking decorators
 
 ## Installation
 ```bash
@@ -85,4 +85,4 @@ inspect fail() to see why it failed.
 Triggers has other functions provided with varying degrees of usefulness. Feel free to read the source for yourself to see these.
 
 ## Contributing
-Pull requests are welcome. This module is still (clearly) a work in progress. I'll be adding tests as well as additional features in the coming weeks.
+Pull requests are welcome. 
